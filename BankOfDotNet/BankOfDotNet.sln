@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOfDotNet.IdentitySvr", "BankOfDotNet.IdentitySvr\BankOfDotNet.IdentitySvr.csproj", "{ECE9C74A-0748-4DA8-8F3E-20808611CA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOfDotNet.API", "BankOfDotNet.API\BankOfDotNet.API.csproj", "{B56D98A7-A5A4-46D2-A8C1-4AFA2DA3E8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE9C74A-0748-4DA8-8F3E-20808611CA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE9C74A-0748-4DA8-8F3E-20808611CA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE9C74A-0748-4DA8-8F3E-20808611CA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE9C74A-0748-4DA8-8F3E-20808611CA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56D98A7-A5A4-46D2-A8C1-4AFA2DA3E8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56D98A7-A5A4-46D2-A8C1-4AFA2DA3E8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56D98A7-A5A4-46D2-A8C1-4AFA2DA3E8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56D98A7-A5A4-46D2-A8C1-4AFA2DA3E8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
