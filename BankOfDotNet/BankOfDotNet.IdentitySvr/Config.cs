@@ -10,7 +10,15 @@ namespace BankOfDotNet.IdentitySvr
         {
             return new List<ApiResource>
             {
-                new ApiResource("bankOfDotNetApi", "Bank of APi display name")
+                new ApiResource("bankOfDotNetApi", "Bank of APi display name"),
+            };
+        }
+        
+        public static IEnumerable<ApiScope> GetApiScopes()
+        {
+            return new List<ApiScope>
+            {
+                new ApiScope(name: "bankOfDotNetApi",   displayName: "some scope descriptins"),
             };
         }
 
@@ -20,13 +28,13 @@ namespace BankOfDotNet.IdentitySvr
             {
                 new Client
                 {
-                    ClientId = "client_id",
+                    ClientId = "client",
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
                     ClientSecrets =
                     {
                         new Secret("secret".Sha256())
                     },
-                    AllowedScopes = {"bankOfDotNetApi"}
+                    AllowedScopes = { "bankOfDotNetApi" }
                 }
             };
         }

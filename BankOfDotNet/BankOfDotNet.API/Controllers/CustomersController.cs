@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace BankOfDotNet.API.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CustomersController : ControllerBase

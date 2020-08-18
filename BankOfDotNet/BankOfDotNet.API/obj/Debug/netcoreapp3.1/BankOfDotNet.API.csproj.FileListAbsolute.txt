@@ -10,7 +10,6 @@
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
@@ -36,3 +35,11 @@
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/obj/Debug/netcoreapp3.1/BankOfDotNet.API.dll
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/obj/Debug/netcoreapp3.1/BankOfDotNet.API.pdb
 /Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/obj/Debug/netcoreapp3.1/BankOfDotNet.API.genruntimeconfig.cache
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/alex/Desktop/BankOfDotNet/BankOfDotNet/BankOfDotNet.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
